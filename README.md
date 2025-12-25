@@ -50,7 +50,7 @@ CYETHACK_Assignment/
 ├── .gitignore
 └── README.md
 
-🎯 Features Implemented
+Features Implemented
 
 JWT-based authentication
 
@@ -73,6 +73,11 @@ Role	Permissions
 Admin	Full access (create events, update alerts, manage users)
 Analyst	Read-only access to alerts
 🔐 Authentication
+
+
+for Admin username and password for testing
+username =Admin
+password =Admin
 
 JWT authentication is implemented using SimpleJWT.
 
@@ -178,3 +183,4 @@ GitHub repository contains complete project
 Project runs locally without issues
 
 README provides setup & API details
+
